@@ -1,5 +1,5 @@
 # Ex. No. : 1
-### Simulation analysis on four bar chain mechanism
+## Simulation analysis on four bar chain mechanism
 ## AIM :
 
 To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
